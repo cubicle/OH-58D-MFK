@@ -19,6 +19,12 @@ fp-info-cache
 ~*.lck
 \#auto_saved_files#
 
+# Backup files
+pcb/OH-58D MFK-backups
+
+# Production files
+pcb/production
+
 # Netlist files (exported from Eeschema)
 *.net
 
