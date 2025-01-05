@@ -25,8 +25,9 @@ pcb/OH-58D MFK-backups
 # Production files
 pcb/production
 
-# Non public documentation files
+# Non public documentation and image files
 docs/*.pdf
+images/references/**
 
 # Netlist files (exported from Eeschema)
 *.net
