@@ -32009,14 +32009,37 @@
 		(uuid "f8948a85-6b82-43d9-948b-07b8c7b198de")
 	)
 	(gr_text "JLCJLCJLCJLC"
-		(at 132.15 116.525 0)
-		(layer "F.SilkS")
+		(at 106.55 61.475 270)
+		(layer "B.SilkS")
 		(uuid "c7d3a99b-461e-4b49-bc25-915f93b9928d")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.2)
-				(bold yes)
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "${COMPANY}"
+		(at 131.6 116.05 0)
+		(layer "F.SilkS")
+		(uuid "883d39bf-deba-41c6-97cd-da3cadb765a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "${TITLE} r${REVISION}"
+		(at 111.825 113.725 0)
+		(layer "F.SilkS")
+		(uuid "97227aa2-5c78-4435-91f5-42f64a25d417")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
 			)
 			(justify left bottom)
 		)
