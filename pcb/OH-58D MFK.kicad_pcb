@@ -14676,7 +14676,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D42"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "0b0fda71-7cff-4045-a1a2-2a29984984a8")
 			(effects
@@ -15273,7 +15273,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D21"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "4990b518-9592-4927-9fd9-a05a3231a9ae")
 			(effects
@@ -15542,7 +15542,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D48"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "feb2977f-9380-44ab-9952-14d648356200")
 			(effects
@@ -15811,7 +15811,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D4"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "520b72b2-ddcc-4731-b0a2-4d3104a804c0")
 			(effects
@@ -16080,7 +16080,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D5"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "1e1f51e0-4b21-482b-87d9-eb8bde7b11f0")
 			(effects
@@ -16568,7 +16568,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D41"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "26a4580b-2b18-4eb2-80b9-ce3e47b58c95")
 			(effects
@@ -16837,7 +16837,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D47"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "77648eb5-0f01-4e39-87a8-813c2a2d9689")
 			(effects
@@ -17325,7 +17325,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D50"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "76f7f3dd-079f-48ff-88b6-0aae27c0b99d")
 			(effects
@@ -17594,7 +17594,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D33"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "64d970d0-8e9c-478e-a7ea-4db9dccdd64a")
 			(effects
@@ -17863,7 +17863,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D14"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "42e3ed56-8210-4a05-aa1a-a29eef42b1a1")
 			(effects
@@ -18132,7 +18132,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D7"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "295762ee-aa1d-4bf0-af04-d050598ac2d1")
 			(effects
@@ -18401,7 +18401,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D22"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "a595f908-9370-41cc-b0c2-f65c560dde65")
 			(effects
@@ -18670,7 +18670,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D34"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "717bf57f-a106-498d-a4db-fc54dd29af9f")
 			(effects
@@ -19301,7 +19301,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D39"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "39f265e4-9925-436f-b4c0-af011e4abe87")
 			(effects
@@ -19570,7 +19570,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D16"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "54206fa0-5197-45c2-8c94-ccff8607a02c")
 			(effects
@@ -19839,7 +19839,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D17"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "d10df324-551a-4b86-bf96-5fd738ff0b02")
 			(effects
@@ -20327,7 +20327,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D8"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "902c00bc-6175-4129-8a09-78cd52d5b0d8")
 			(effects
@@ -20596,7 +20596,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D19"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "213bc32f-1ddc-4e8a-ad7f-9ab752df53d4")
 			(effects
@@ -20865,7 +20865,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D31"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "87ef5856-52df-4080-a8d7-13b79ac377e0")
 			(effects
@@ -21638,7 +21638,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D20"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "eb3a6027-c3a0-4a06-9a31-d6f0b34ea62a")
 			(effects
@@ -21907,7 +21907,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D2"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "84b26d91-7d16-4c1f-923a-584f574cccab")
 			(effects
@@ -22176,7 +22176,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D32"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "88972f9a-ace5-43b3-8156-4995aa19a8a9")
 			(effects
@@ -22445,7 +22445,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D12"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "da196c0d-cc79-4817-bde0-317812ba8fb4")
 			(effects
@@ -22714,7 +22714,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D27"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "a0124218-a33e-4aa4-ace8-84957851510b")
 			(effects
@@ -22983,7 +22983,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D29"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "818bf19f-5be2-4789-8393-7490d690a7d1")
 			(effects
@@ -23252,7 +23252,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D23"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "a7165e71-30fe-4057-a908-9672d342b375")
 			(effects
@@ -23795,7 +23795,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D26"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "23b5a9f0-a63e-42e8-83e5-c05f7f30afcd")
 			(effects
@@ -24064,7 +24064,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D11"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "25610d86-7da3-4486-99ff-9dfdc630ce7f")
 			(effects
@@ -24333,7 +24333,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D18"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "3932cbff-c35b-4983-aa51-b1f8bfa2b1ec")
 			(effects
@@ -24602,7 +24602,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D30"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "0598a986-8574-4ca9-9a83-6440f1bb02fc")
 			(effects
@@ -24871,7 +24871,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D43"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "8bdf01b7-51ef-4238-a060-190ca00631e4")
 			(effects
@@ -25359,7 +25359,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D9"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "2895969b-4807-45b7-9342-a148e4e04e34")
 			(effects
@@ -25902,7 +25902,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D15"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "c5176049-7b36-4470-9876-61121a36af56")
 			(effects
@@ -26171,7 +26171,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D13"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "b0c29201-2226-44de-8232-62bf51cdfcbb")
 			(effects
@@ -26659,7 +26659,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D51"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "4ec645f1-44e8-4926-b4d8-0608053b67b7")
 			(effects
@@ -26928,7 +26928,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D10"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "b101a829-430d-4725-b788-f0f4eed0434d")
 			(effects
@@ -27197,7 +27197,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D35"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "ecde6fe2-8c85-4ae0-9f17-a1d5bba3e368")
 			(effects
@@ -27466,7 +27466,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D49"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "daba175c-9d8c-4d62-b3af-49819ff437c1")
 			(effects
@@ -27735,7 +27735,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D37"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "9dcdea4e-bfdb-4ded-a820-0a7bd2a3f277")
 			(effects
@@ -28004,7 +28004,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D1"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "18e7736b-4c59-4127-aa08-c4df75aee2dd")
 			(effects
@@ -28273,7 +28273,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D46"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "9056f895-dd66-414b-b4e9-16ae63024b87")
 			(effects
@@ -28542,7 +28542,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D45"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "51db96b6-6136-4ac0-894a-a6330f508b9e")
 			(effects
@@ -28811,7 +28811,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D24"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "611462a2-1135-48ae-98d9-285c51d2b461")
 			(effects
@@ -29080,7 +29080,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D36"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "20dd5aca-fe42-4168-9174-8d9e778017e0")
 			(effects
@@ -29787,7 +29787,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D6"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "3f4a154e-16a7-411c-8c8b-50cacd5dbfea")
 			(effects
@@ -30056,7 +30056,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D38"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "2e9458c4-f657-42ad-ad05-ac2e002a2b90")
 			(effects
@@ -30325,7 +30325,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D3"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "e20c847a-fbd2-4515-bb8f-1f3cbeb633a1")
 			(effects
@@ -30813,7 +30813,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D44"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "76b06549-5dc2-4afb-8c50-e21a17fdb255")
 			(effects
@@ -31082,7 +31082,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D28"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "f8a2b492-6b77-4a74-b16e-d7292b424308")
 			(effects
@@ -31351,7 +31351,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D40"
-			(at 0 1.7 270)
+			(at 0 1.7 -90)
 			(layer "B.SilkS")
 			(uuid "c1e621ba-9fc2-4ead-ac6f-812ff727a9ae")
 			(effects
@@ -31620,7 +31620,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "D25"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(uuid "64d84287-2998-460b-a94b-fa7d84220144")
 			(effects
