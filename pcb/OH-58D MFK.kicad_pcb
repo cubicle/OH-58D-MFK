@@ -32032,7 +32032,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "${TITLE} r${REVISION}"
+	(gr_text "${TITLE} v${REVISION}"
 		(at 111.825 113.725 0)
 		(layer "F.SilkS")
 		(uuid "97227aa2-5c78-4435-91f5-42f64a25d417")
