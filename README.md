@@ -2,6 +2,12 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+![Exploded view](images/exploded.png)
+
+## Work in progress
+
+This project is still work in progress. Print and assemble at your own risk.
+
 ## 3D printed parts
 
 You can find the CAD files on [Onshape](https://cad.onshape.com/documents/6787d83c44a91f8cde39e86e/w/96151ec904b149525745d522/e/fceb9b6b394f6e8ffc93c401). Currently you need to export the Onshape parts to get printable STLs files.
