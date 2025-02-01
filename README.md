@@ -10,6 +10,7 @@ This project is still work in progress. Print and assemble at your own risk.
 
 ## BOM
 
+-  1 x [7x5cm PCB prototype board](https://www.amazon.de/dp/B09NDP48TX)
 -  1 x [AZDelivery Pro Micro ATMEGA32U4](https://www.amazon.de/gp/product/B0B5F3GT42)
 - [Heat Set Inserts M3x3 (short)](https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces)
 - 51 x [Diode SMD 0805 1N4148](https://www.ebay.de/itm/312738927547)
@@ -23,8 +24,6 @@ This project is still work in progress. Print and assemble at your own risk.
 -  Wire
 -  [Dupont crimping tool and connectors](https://www.amazon.de/dp/B07QX51F3B)
 - M3 and M4 screws
-
-
 
 ## 3D printed parts
 
