@@ -14,7 +14,7 @@ This project is still work in progress. Print and assemble at your own risk.
 -  1 x [AZDelivery Pro Micro ATMEGA32U4](https://www.amazon.de/gp/product/B0B5F3GT42)
 - [Heat Set Inserts M3x3 (short)](https://cnckitchen.store/products/heat-set-insert-m3-x-3-short-version-100-pieces)
 - 51 x [Diode SMD 0805 1N4148](https://www.ebay.de/itm/312738927547)
--  9 x [Resister SMD 0805 10K](https://www.ebay.de/itm/362412320635)
+-  9 x [Resistor SMD 0805 10K](https://www.ebay.de/itm/362412320635)
 - 47 x [OMRON B3F-115x Tactile Switch](https://www.ebay.de/itm/231954583799)
 -  2 x [Switch cover](https://www.reichelt.de/de/de/shop/produkt/sicherheitsabdeckungen_fuer_kippschalter-105434)
 -  2 x [Switch ON/OFF](https://www.pollin.de/p/kippschalter-kn3-c-101a-1-polig-on-off-420068)
