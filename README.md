@@ -2,7 +2,9 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-![Exploded view](images/exploded.png)
+<p align="center">
+  <img alt="Exploded view" src="images/exploded.png" />
+</p>
 
 ## Work in progress
 
