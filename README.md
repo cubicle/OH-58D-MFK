@@ -27,7 +27,13 @@ This project is still work in progress. Print and assemble at your own risk.
 
 ## 3D printed parts
 
-You can find the CAD files on [Onshape](https://cad.onshape.com/documents/6787d83c44a91f8cde39e86e/w/96151ec904b149525745d522/e/fceb9b6b394f6e8ffc93c401). Currently you need to export the Onshape parts to get printable STLs files.
+### STLs
+
+STLs are hosted on [Printables](https://www.printables.com/model/1201023-oh-58d-mfk).
+
+### CAD
+
+You can find the CAD files on [Onshape](https://cad.onshape.com/documents/6787d83c44a91f8cde39e86e/w/96151ec904b149525745d522/e/fceb9b6b394f6e8ffc93c401). Be careful as these may contain untested changes.
 
 ## License
 
