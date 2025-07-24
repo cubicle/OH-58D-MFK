@@ -37,6 +37,10 @@ STLs are hosted on [Printables](https://www.printables.com/model/1201023-oh-58d-
 
 You can find the CAD files on [Onshape](https://cad.onshape.com/documents/6787d83c44a91f8cde39e86e/w/96151ec904b149525745d522/e/fceb9b6b394f6e8ffc93c401). Be careful as these may contain untested changes.
 
+### Arduino Uno Case
+
+You will need to print a case for the Arduino Uno. I used the [Arduino Uno Case](https://www.printables.com/model/122097-arduino-uno-case) from [Kazik](https://www.printables.com/@Kazik).
+
 ## License
 
 Except where otherwise noted, this work © 2025 is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
