@@ -25,6 +25,9 @@ pcb/OH-58D MFK-backups
 # Production files
 pcb/production
 
+# STL files
+stl/
+
 # Non public documentation and image files
 docs/*.pdf
 images/references/**
